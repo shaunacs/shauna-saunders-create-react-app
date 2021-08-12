@@ -11,7 +11,7 @@ function Cards() {
                     <ul className="cards__items">
                         <CardItem
                         src="images/shauna-child.jpg"
-                        text="Background"
+                        text="Why Software Engineering?"
                         path="/background"
                         />
                         <CardItem
