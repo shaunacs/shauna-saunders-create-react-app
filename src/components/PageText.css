@@ -1,0 +1,19 @@
+.p-heading {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.p-content {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.page-text {
+    width: 50%;
+    display: inline;
+}
+
+.side-photo {
+    width: 50%;
+    display: inline;
+}
