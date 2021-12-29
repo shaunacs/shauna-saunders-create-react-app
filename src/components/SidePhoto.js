@@ -1,13 +1,11 @@
 import React from 'react';
-import '../App.css';
-import { Button } from './Button';
 import './SidePhoto.css';
 
-function SidePhoto() {
+function SidePhoto(props) {
     return (
-        <div>
-            
-        </div>
+        <>
+            <img className="side-photo" src={props.src}></img>
+        </>
     );
 }
 
