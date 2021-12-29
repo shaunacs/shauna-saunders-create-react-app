@@ -13,7 +13,8 @@ function Background() {
                                 Great question.
                         </h2> 
                         <p className="p-content">
-                            Growing up, I loved taking my electronics apart. 
+                            I've always loved understanding how things work. <br></br>
+                            Growing up, I would take my electronics apart because
                             I was SO intriuged by how everything worked and HAD to know what 
                             was inside.<br></br>
                             My favorite subject was math. 
