@@ -5,7 +5,7 @@ import PageHeader from '../PageHeader';
 function Background() {
     return (
         <>
-            <PageHeader heading="Why Software Engineering?"/>
+            <PageHeader heading="Background"/>
             <div className="page-text">
                 <div className="row">
                     <div className="col-6">
