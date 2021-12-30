@@ -15,5 +15,7 @@
 
 .side-photo {
     width: 50%;
-    display: inline;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
