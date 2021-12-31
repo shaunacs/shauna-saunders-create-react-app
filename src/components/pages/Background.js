@@ -41,15 +41,16 @@ function Background() {
                             So they can experience the relief of having an interviewer that looks like them... So they can define
                             their own future...
                         </p>
-                        <a href="https://www.colorstack.org/"><img id="colorstack" src="https://assets.website-files.com/609889c9bc5031d5ac23b6f7/6098cc79287568ab1292fb62_Horizontal_Logo_3-p-500.png"></img></a>
-                        <a href="https://www.blackgirlscode.com/"><img src="https://images.credly.com/images/6be34f78-9b94-4e64-b83f-80ed735a15ef/blob.png"></img></a>
+                        <div>
+                            <a href="https://www.colorstack.org/"><img id="colorstack" src="https://assets.website-files.com/609889c9bc5031d5ac23b6f7/6098cc79287568ab1292fb62_Horizontal_Logo_3-p-500.png"></img></a>
+                            <a href="https://www.blackgirlscode.com/"><img id="black-girls-code" src="https://images.credly.com/images/6be34f78-9b94-4e64-b83f-80ed735a15ef/blob.png"></img></a>
+                        </div>
                     </div>
                     <div className="col-6">
                         <img className="side-photo" src="images/shauna-child.jpg"></img>
                     </div>
                 </div>
             </div>
-            <p>Note to self: Include link to ColorStack and Black Girls Code</p>
         </>
     );
 }
