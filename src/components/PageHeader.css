@@ -1,6 +1,6 @@
 .background-heading {
     /* background: url('../img/shauna-child.jpg') center/cover no-repeat; */
-    background-color: black;
+    background-color: #873e23;
     height: 17vh;
     width: 100%;
     display: flex;
@@ -14,7 +14,8 @@
 .background-heading > h1 {
     color: #fff;
     font-size: 50px;
-    margin-top: -50px;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 
