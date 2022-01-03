@@ -18,6 +18,11 @@ function EducationCards() {
                         src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/University_of_North_Carolina_at_Chapel_Hill_seal.svg/1200px-University_of_North_Carolina_at_Chapel_Hill_seal.svg.png"
                         school="The University of North Carolina at Chapel Hill"
                         studies="Human Development &amp; Family Studies"/>
+                        <CardLink 
+                        url="https://nwhs.wilkescountyschools.org/"
+                        src="https://3.files.edl.io/b436/20/06/08/180017-8b545457-b2eb-44e5-bd89-47ab5baa5680.jpg"
+                        school="North Wilkes High School"
+                        studies="HS Diploma"/>
                     </ul>
                 </div>
             </div>
